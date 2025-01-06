@@ -313,7 +313,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Peixoto]
-  first_name: [Caio F. L., C. F. L.]
+  first_name: [Caio F. L., C. F. L., Caio]
 
   style: apa
   locale: en
