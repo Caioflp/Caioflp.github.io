@@ -4,11 +4,11 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Caio
-middle_name: F. L.
+middle_name: Lins
 last_name: Peixoto
-email: caiolinspeixoto@gmail.com
+email: caio.peixoto@fgv.br
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Applied Mathematics master's student interested broadly in Probability and Statistics.
+  Hi! I am a second year master's student in Applied Mathematics at the School of Applied Mathematics of the Getulio Vargas Foundation, in Rio de Janeiro, Brazil.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -204,7 +204,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: true,
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
