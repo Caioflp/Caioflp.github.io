@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student in Applied Mathematics at <a href='https://emap.fgv.br'>FGV EMAp</a>. Rio de Janeiro, Brazil.
+subtitle: Master's student in Applied Mathematics at <a href='https://emap.fgv.br'>FGV EMAp</a>.<br>Rio de Janeiro, Brazil.
 
 profile:
   align: right
@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-TODO.
+Hi! I am a second year master's student in Applied Mathematics at the School of Applied Mathematics of the Getulio Vargas Foundation, in Rio de Janeiro, Brazil.
