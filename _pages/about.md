@@ -26,4 +26,4 @@ These include **Stochastic Control**, **Nonparametric Statistics** and **Stochas
 I am currently funded by the **PICME/CAPES scholarship**, awarded anually to **fifteen** incoming master's students in Mathematics throughout Brazil.
 Previously, I completed my bachelor's degree in Applied Mathematics at FGV EMAp, sponsored by [CDMC](http://cdmc.fgv.br) as a participant of their talent scouting program.
 
-My non-academic interests include guitar practising and amateur photography.
+My non-academic interests include guitar playing and amateur photography.
