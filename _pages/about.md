@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a second year **master's student in Applied Mathematics** at FGV's School of Applied Mathematics, and have the pleasure to be advised by [Prof. Yuri Saporito](https://www.yurisaporito.com).
+Hi! I am a second year **master's student in Applied Mathematics** at FGV's School of Applied Mathematics, and am fortunate to be advised by [Prof. Yuri Saporito](https://www.yurisaporito.com).
 
 My research interestes lie broadly in areas of **Probability and Statistics** which have some kind of "functional flavor", as well as compelling applications.
 These include **Stochastic Control**, **Nonparametric Statistics** and **Stochastic Optimization** over high/infinite dimensional spaces, motivated by problems in **Finance**, **Econometrics** and **Machine Learning**.
