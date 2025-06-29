@@ -23,3 +23,5 @@ For my research, I am broadly interested in areas of **Probability and Statistic
 These include **Stochastic Control**, **Nonparametric Statistics** and **Stochastic Optimization** over high/infinite dimensional spaces, motivated by problems in **Finance**, **Econometrics** and **Machine Learning**.
 I am currently funded by the **PICME/CAPES scholarship**, awarded anually to **fifteen** incoming master's students in Mathematics throughout Brazil.
 Previously, I completed my bachelor's degree in Applied Mathematics at FGV EMAp, sponsored by [**CDMC**](http://cdmc.fgv.br) as a participant of their talent scouting program.
+
+On my free time, I enjoy playing the guitar and amateur photography.
