@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I am a second year **master's student in Applied Mathematics** at FGV's School of Applied Mathematics, and am fortunate to be advised by [Prof. Yuri Saporito](https://www.yurisaporito.com).
+Hi! I am a second year **master's student in Applied Mathematics** at FGV's School of Applied Mathematics. I am fortunate to be advised by [Prof. Yuri Saporito](https://www.yurisaporito.com).
 
 My research interestes lie broadly in areas of **Probability and Statistics** which have some kind of "functional flavor", as well as compelling applications.
 These include **Stochastic Control**, **Nonparametric Statistics** and **Stochastic Optimization** over high/infinite dimensional spaces, motivated by problems in **Finance**, **Econometrics** and **Machine Learning**.
@@ -26,4 +26,4 @@ These include **Stochastic Control**, **Nonparametric Statistics** and **Stochas
 I am currently funded by the **PICME/CAPES scholarship**, awarded anually to **fifteen** incoming master's students in Mathematics throughout Brazil.
 Previously, I completed my bachelor's degree in Applied Mathematics at FGV EMAp, sponsored by [CDMC](http://cdmc.fgv.br) as a participant of their talent scouting program.
 
-In my free time, I enjoy playing the guitar and being an amateur photographer for friends an family.
+In my free time, I enjoy playing the guitar and amateur photography.
