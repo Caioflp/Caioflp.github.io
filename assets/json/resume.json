@@ -24,7 +24,16 @@
       "startDate": "2024-02",
       "endDate": "today",
       "score": "A",
-      "courses": ["Measure Theory", "Functional Analysis", "Stochastic Processes", "Statistical Inference", "Computational Statistics", "Bayesian Statistics", "Partial Differential Equations", "Quantitative Finance"]
+      "courses": [
+        "Measure Theory",
+        "Functional Analysis",
+        "Stochastic Processes",
+        "Statistical Inference",
+        "Computational Statistics",
+        "Bayesian Statistics",
+        "Partial Differential Equations",
+        "Quantitative Finance"
+      ]
     },
     {
       "institution": "School of Applied Mathematics, Getulio Vargas Foundation",
