@@ -148,8 +148,10 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: true
+    output: false
     permalink: /:collection/:title/
+  blog:
+    output: false
 
 announcements:
   enabled: true
