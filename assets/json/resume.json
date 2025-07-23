@@ -24,6 +24,7 @@
       "startDate": "2024-02",
       "endDate": "today",
       "score": "A",
+      "description": "Bachelor's dissertation: Nonparametric Instrumental Variable Regression through Stochastic Gradients and Kernel Methods.",
       "courses": [
         "Measure Theory",
         "Functional Analysis",

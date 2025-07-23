@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student in Applied Mathematics at <a href='https://emap.fgv.br'>FGV EMAp</a>.<br>Rio de Janeiro, Brazil.
+subtitle: Master's student in Applied Mathematics at <a href='https://emap.fgv.br/en'>FGV EMAp</a>.<br>Rio de Janeiro, Brazil.
 
 profile:
   align: right
