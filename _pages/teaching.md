@@ -13,7 +13,7 @@ nav_order: 4
 
 - **Linear Algebra** (Feb – Jul 2025, M.Sc.)
   - _Professor:_ [Moacyr A. H. B. da Silva](https://emap.fgv.br/professores/moacyr-alvim-horta-barbosa-da-silva)
-- **Statistical Inference** (Aug – Sep 2024, M.Sc.)
+- **Statistical Inference** (Aug – Sep 2024, Aug - Sep 2025, M.Sc.)
   - _Professor:_ [Rodrigo dos Santos Targino](https://emap.fgv.br/professores/rodrigo-dos-santos-targino)
 - **Measure Theory** (Aug - Dec 2023, Mar - Jul 2024, Ph.D.)
   - _Professor:_ [Bernardo F. P da Costa](https://emap.fgv.br/professores/bernardo-freitas-paulo-da-costa)

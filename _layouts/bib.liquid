@@ -4,6 +4,7 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
+        {%comment%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
@@ -24,6 +25,14 @@
         {% else %}
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
+        {%endcomment%}
+        <abbr class="badge rounded w-100">
+          {% if entry.url %}
+            <a href="{{ entry.url }}" target="_blank">{{ entry.abbr }}</a>
+          {% else %}
+            {{ entry.abbr }}
+          {% endif %}
+        </abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
