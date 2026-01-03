@@ -5,7 +5,7 @@ title: repositories
 # description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 description: repositories containing research code and TA materials
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <!-- ## GitHub users -->
