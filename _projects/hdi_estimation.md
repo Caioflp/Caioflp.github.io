@@ -3,7 +3,7 @@ layout: page
 title: Confidence intervals for HDI endpoints
 description: Ongoing joint work with Luiz Carvalho, Yuri Saporito and Daniel Csillag (FGV EMAp), Flávio Bambirra (UFMG) and Charles Doss (University of Minnesota)
 img: assets/img/hdi.png
-importance: 1
+importance: 4
 category: EMAp
 related_publications: false
 ---

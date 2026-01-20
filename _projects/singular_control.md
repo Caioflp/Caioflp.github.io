@@ -3,7 +3,7 @@ layout: page
 title: Singular stochastic optimal control with general coefficients
 description: Ongoing joint work with Yuri Saporito (FGV EMAp) and Agostino Capponi (Columbia University)
 img: assets/img/singular_qvi.png
-importance: 1
+importance: 3
 category: EMAp
 related_publications: false
 ---
